@@ -15,9 +15,9 @@ Soy un dev junior muy curioso. Estudiante eterno por interés, autodidacta, actu
 #### Contactame en
 
 
-  Twitter: <a href="https://twitter.com/soyalexmetztli">@soyalexmetztli</a>
-  LinkedIn: <a href="https://www.linkedin.com/in/alexmomantai/">Alexis Luna</a>
-  E-mail: <a href="mailto:alexis.luna@alumnos.udg.mx">alexis.luna@alumnos.udg.mx</a>
+  Twitter: <a href="https://twitter.com/soyalexmetztli" target="_blank">@soyalexmetztli</a>
+  LinkedIn: <a href="https://www.linkedin.com/in/alexmomantai/" target="_blank">Alexis Luna</a>
+  E-mail: <a href="mailto:alexis.luna@alumnos.udg.mx" target="_blank">alexis.luna@alumnos.udg.mx</a>
 <!--
 **momantai/momantai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
