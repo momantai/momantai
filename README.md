@@ -1,6 +1,6 @@
 ### Full Stack Developer 👨‍💻
 
-Soy un dev junior muy curioso. Estudiante eterno por interés, autodidacta, actualmente aprendiendo Django para web y Apollo + GraphQL para API's modernas. Experiencia en el desarrollo web con Laravel (PHP) y Flask (Python) para backend y desarrollo de API's. Mi framework preferido para el frontend es Vue.js. Experiencia en uso de base de datos SQL (MySQL) y NoSQL (MongoDB). Más afín a los ecosistemas de Python y JavaScript para el desarrollo, pero también programo en PHP.
+Soy un dev muy curioso. Estudiante eterno por interés, autodidacta, actualmente aprendiendo Django para web y Apollo + GraphQL para API's modernas. Experiencia en el desarrollo web con Laravel (PHP) y Flask (Python) para backend y desarrollo de API's. Mi framework preferido para el frontend es Vue.js. Experiencia en uso de base de datos SQL (MySQL) y NoSQL (MongoDB). Más afín a los ecosistemas de Python y JavaScript para el desarrollo, pero también programo en PHP.
 
 ```javascript
   const dev_profile = {
