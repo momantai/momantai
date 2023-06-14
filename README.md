@@ -1,13 +1,13 @@
-### Full Stack Developer 👨‍💻
+### Developer 👨‍💻
 
-Soy un dev muy curioso. Estudiante eterno por interés, autodidacta, actualmente aprendiendo Django para web y Apollo + GraphQL para API's modernas. Experiencia en el desarrollo web con Laravel (PHP) y Flask (Python) para backend y desarrollo de API's. Mi framework preferido para el frontend es Vue.js. Experiencia en uso de base de datos SQL (MySQL) y NoSQL (MongoDB). Más afín a los ecosistemas de Python y JavaScript para el desarrollo, pero también programo en PHP.
+Soy un dev muy curioso. Estudiante eterno por interés, autodidacta, actualmente desarrollando con Ruby on Rails. Experiencia en el desarrollo web con Rails (Ruby), Laravel y WordPress (PHP) y Flask (Python) para backend y desarrollo de API's. Experiencia en uso de base de datos SQL (MySQL) y nociones de NoSQL (MongoDB).
 
 ```javascript
   const dev_profile = {
     user: "momantai",
     name: "Alexis Luna",
-    langs: ["JavaScript", "Python", "PHP"],
-    frameworks: ["VueJS", "ElectronJS", "Flask", "Laravel"],
+    langs: ["Ruby", "JavaScript", "Python", "PHP"],
+    frameworks: ["RoR", "ViewComponents", "VueJS", "ElectronJS", "Flask", "Laravel", ""],
     databases: ["MySQL", "MongoDB"]
   };
 ```
