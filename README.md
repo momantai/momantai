@@ -1,6 +1,6 @@
-### Developer 👨‍💻
+### Software Developer 👨‍💻
 
-Soy un dev muy curioso. Estudiante eterno por interés, autodidacta, actualmente desarrollando con Ruby on Rails. Experiencia en el desarrollo web con Rails (Ruby), Laravel y WordPress (PHP) y Flask (Python) para backend y desarrollo de API's. Experiencia en uso de base de datos SQL (MySQL) y nociones de NoSQL (MongoDB).
+Soy un dev muy curioso. Autodidacta, actualmente desarrollando con Ruby on Rails. Experiencia en el desarrollo web con Rails (Ruby), Laravel y WordPress (PHP) y Flask (Python) para backend y desarrollo de API's. Experiencia en uso de base de datos SQL (MySQL) y nociones de NoSQL (MongoDB).
 
 ```javascript
   const dev_profile = {
@@ -17,7 +17,7 @@ Soy un dev muy curioso. Estudiante eterno por interés, autodidacta, actualmente
 
   Twitter: <a href="https://twitter.com/soyalexmetztli" target="_blank">@soyalexmetztli</a>
   LinkedIn: <a href="https://www.linkedin.com/in/alexmomantai/" target="_blank">Alexis Luna</a>
-  E-mail: <a href="mailto:alexis.luna@alumnos.udg.mx" target="_blank">alexis.luna@alumnos.udg.mx</a>
+  E-mail: <a href="mailto:im.alexmomantai@gmail.com" target="_blank">im.alexmomantai@gmail.com</a>
 <!--
 **momantai/momantai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
